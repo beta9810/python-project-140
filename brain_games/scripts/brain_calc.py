@@ -1,5 +1,5 @@
 from brain_games.engine import run_game
-from brain_games.games.even import DESCRIPTION, generate_round
+from brain_games.games.calc import DESCRIPTION, generate_round
 
 
 def main():

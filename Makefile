@@ -18,3 +18,6 @@ clean:
 
 even:
 	uv run brain-even
+
+calc:
+	uv run brain-calc
