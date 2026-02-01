@@ -15,3 +15,6 @@ lint:
 
 clean:
 	rm -rf dist *.egg-info .venv
+
+even:
+	uv run brain-even
