@@ -17,3 +17,9 @@ https://asciinema.org/a/x2eH8rUCAIry2pQa
 Grabación realizada con escenario usuario pierde y luego gana
 
 https://asciinema.org/a/zqaQpQHrdZMF7tBt
+
+##Demostración del juegp
+
+Grabacion realizada con usuario primero perdiendo, luego ganando
+
+https://asciinema.org/a/OvHo5FJ7Th95AzOy
