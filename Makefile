@@ -27,3 +27,6 @@ gcd:
 
 progression:
 	uv run brain-progression
+
+prime:
+	uv run brain-prime

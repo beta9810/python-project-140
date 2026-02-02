@@ -23,3 +23,9 @@ https://asciinema.org/a/zqaQpQHrdZMF7tBt
 Grabacion realizada con usuario primero perdiendo, luego ganando
 
 https://asciinema.org/a/OvHo5FJ7Th95AzOy
+
+##Demostración del juego
+
+Grabación realizada con usuario perdiendo y luego ganando
+
+https://asciinema.org/a/2XKEZNs9uF402I9o
