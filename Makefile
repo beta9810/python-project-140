@@ -21,3 +21,6 @@ even:
 
 calc:
 	uv run brain-calc
+
+gcd:
+	uv run brain-gcd

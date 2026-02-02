@@ -11,3 +11,9 @@ https://asciinema.org/a/g9DRR4czvWEcywyG
 Grabación realizada con escenario usuario gana y pierde
 
 https://asciinema.org/a/x2eH8rUCAIry2pQa
+
+##Demostración del juego
+
+Grabación realizada con escenario usuario pierde y luego gana
+
+https://asciinema.org/a/zqaQpQHrdZMF7tBt
