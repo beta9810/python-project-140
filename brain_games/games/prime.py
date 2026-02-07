@@ -2,7 +2,7 @@ import random
 import math
 
 DESCRIPTION = (
-    'Answer "yes" if given number is prime.'
+    'Answer "yes" if given number is prime. '
     'Otherwise answer "no".'
 )
 MIN_NUMBER = 1
