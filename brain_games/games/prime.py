@@ -1,13 +1,15 @@
 import random
 import math
 
-DESCRIPTION = "Answer \"yes\" if given number is prime. Otherwise answer \"no\"."
+DESCRIPTION = (
+    'Answer "yes" if given number is prime.'
+    'Otherwise answer "no".'
+)
 MIN_NUMBER = 1
 MAX_NUMBER = 100
 
 
 def is_prime(n: int) -> bool:
-    """Devuelve True si n es primo, False en caso contrario (implementación manual)."""
     if n < 2:
         return False
     if n == 2:
